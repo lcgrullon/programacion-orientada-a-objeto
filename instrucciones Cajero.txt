@@ -1,0 +1,6 @@
+Instalar netbeans
+instalar mysql 
+bajar el jbdc driver de mysql para java
+crear la base de datos bd
+crear la tabla cliente con los campos cod_cli pk,nom_cli,ciu_cli,ape_cli,pin_cli,balance
+crear la tabla retiro con los campos cod_retiro ai pk,cod_cli,monto,fecha,estado
